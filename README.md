@@ -35,9 +35,9 @@ Fórum de discussões com categorias, tags, perfis e interações sociais.
 
 Projeto para praticar DOM, eventos e interatividade com JavaScript.
 
-**[Tampix](https://github.com/CadevV/Tampix)**
+**[Game Clicker](https://github.com/CadevV/Game-Cliquer-v1)**
 
-Projeto web de divulgação de uma iniciativa estudantil de arrecadação de tampinhas.
+Jogo projetado para estudar JavaScript Puro com eventos diversos.
 
 ---
 
