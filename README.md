@@ -6,17 +6,17 @@
 
 </div>
 
-### 👋 Sobre mim
+### Sobre mim
 
 Sou estudante do **Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas (M-TEC DS)**, apaixonado por tecnologia e pela criação de projetos.
 
 Gosto de entender como uma aplicação funciona por completo, **desde a interface até o banco de dados**. Meu objetivo é me tornar um **desenvolvedor Full Stack**, construindo uma base sólida e ganhando cada vez mais autonomia para programar.
 
-> 💜 Aprender, experimentar, errar, corrigir e entender o que estou construindo.
+> Aprender, experimentar, errar, corrigir e entender o que estou construindo.
 
 ---
 
-### 🚀 Tecnologias
+### Tecnologias
 
 <div align="center">
 
@@ -34,30 +34,30 @@ Gosto de entender como uma aplicação funciona por completo, **desde a interfac
 
 ---
 
-### 💻 Projetos em destaque
+### Projetos em destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/CadevV/Forum-Nodus">💬 Nodus — Fórum Full Stack</a></h3>
+      <h3 align="center"><a href="https://github.com/CadevV/Forum-Nodus">Nodus — Fórum Full Stack</a></h3>
       <p>Fórum de estudos com cadastro, login, publicações, categorias e perfis. Integra JavaScript no frontend com uma API em Node.js e Express.</p>
       <p><code>JavaScript</code> <code>Node.js</code> <code>Express</code> <code>Zod</code></p>
-      <p>🔧 Próximos passos: PostgreSQL, autenticação segura e novas interações.</p>
+      <p>Próximos passos: PostgreSQL, autenticação segura e novas interações.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/CadevV/Blog-Simples">📝 Blog Simples</a></h3>
+      <h3 align="center"><a href="https://github.com/CadevV/Blog-Simples">Blog Simples</a></h3>
       <p>Projeto para praticar JavaScript puro, manipulação do DOM, eventos, curtidas, pesquisa, criação de posts e modais.</p>
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/CadevV/Game-Cliquer-v1">🎮 Game Clicker</a></h3>
+      <h3 align="center"><a href="https://github.com/CadevV/Game-Cliquer-v1">Game Clicker</a></h3>
       <p>Jogo de cliques com melhorias, níveis e power-ups. Desenvolvido para estudar lógica, funções, objetos, arrays e eventos.</p>
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript puro</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/CadevV/Agenda-SaaS">📅 Agenda SaaS</a></h3>
+      <h3 align="center"><a href="https://github.com/CadevV/Agenda-SaaS">Agenda SaaS</a></h3>
       <p>Projeto colaborativo de organização de tarefas. Atuei principalmente no frontend, nos formulários e na integração com a API.</p>
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Fetch API</code></p>
     </td>
@@ -66,7 +66,7 @@ Gosto de entender como uma aplicação funciona por completo, **desde a interfac
 
 ---
 
-### 📚 Atualmente estudando
+### Atualmente estudando
 
 - **JavaScript:** lógica, DOM, organização do código e responsividade.
 - **Node.js e Express:** APIs REST, validação de dados e tratamento de erros.
@@ -75,14 +75,14 @@ Gosto de entender como uma aplicação funciona por completo, **desde a interfac
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <div align="center">
 
 <img height="170" alt="Estatísticas públicas do GitHub de CadevV" src="https://github-readme-stats.vercel.app/api?username=CadevV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B794F4&icon_color=B794F4&text_color=C9D1D9" />
 <img height="170" alt="Linguagens nos repositórios públicos de CadevV" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CadevV&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B794F4&text_color=C9D1D9" />
 
-<img width="100%" alt="Gráfico de atividade do GitHub" src="https://github-readme-activity-graph.vercel.app/graph?username=CadevV&bg_color=0D1117&color=B794F4&line=8B5CF6&point=C4B5FD&area=true&area_color=7C3AED&hide_border=true" />
+<img width="100%" alt="Gráfico animado de atividades do GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CadevV&amp;theme=github_dark&amp;animation=draw&amp;duration=3&amp;bg_color=0D1117&amp;title_color=B794F4&amp;text_color=C9D1D9&amp;chart_color=8B5CF6" />
 
 <sub>Os gráficos representam a atividade e os arquivos publicados, não o nível de domínio de cada linguagem.</sub>
 
@@ -90,7 +90,7 @@ Gosto de entender como uma aplicação funciona por completo, **desde a interfac
 
 ---
 
-### 🐍 Minhas contribuições
+### Minhas contribuições
 
 <div align="center">
 
