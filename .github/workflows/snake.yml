@@ -1,0 +1,33 @@
+name: Gerar animação das contribuições
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Gerar as animações (claro e escuro)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: CadevV
+          outputs: |
+            dist/github-snake.svg?color_snake=%237C3AED&color_dots=%23F8F5FF,%23DDD6FE,%23C4B5FD,%23A78BFA,%237C3AED
+            dist/github-snake-dark.svg?color_snake=%23C4B5FD&color_dots=%230D1117,%23261A40,%234C1D95,%237C3AED,%23A78BFA
+
+      - name: Publicar as imagens na branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
