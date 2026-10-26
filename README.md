@@ -41,8 +41,7 @@ Gosto de entender como uma aplicação funciona por completo, **desde a interfac
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/CadevV/Forum-Nodus">Nodus — Fórum Full Stack</a></h3>
       <p>Fórum de estudos com cadastro, login, publicações, categorias e perfis. Integra JavaScript no frontend com uma API em Node.js e Express.</p>
-      <p><code>JavaScript</code> <code>Node.js</code> <code>Express</code> <code>Zod</code></p>
-      <p>Próximos passos: PostgreSQL, autenticação segura e novas interações.</p>
+      <p><code>JavaScript</code> <code>Node.js</code> <code>Express</code> <code>Zod</code> <code>PostgreSQL</code></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/CadevV/Blog-Simples">Blog Simples</a></h3>
